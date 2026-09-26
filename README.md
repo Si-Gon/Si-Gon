@@ -42,3 +42,12 @@ Coming soon — currently contributing to open source.
 
 - GitHub: [@Si-Gon](https://github.com/Si-Gon)
 - Location: Santiago, Chile (UTC-04:00)
+
+### Traduccion al espanol de Pokemon Heart & Soul 1.2.1
+
+Traduccion completa al **espanol latino neutro** del hack *Pokemon Heart & Soul* (base pokeemerald):
+menus, batalla, objetos, movimientos, Pokedex, Pokegear, dialogos, mapas, TV y nombres de zona,
+con auditoria automatizada sobre el ROM compilado (50.765 literales, 0 texto visible en ingles).
+
+- Parche `.ups`: [release es-1.2.1-v2](https://github.com/Si-Gon/pokemonHnS/releases/tag/es-1.2.1-v2)
+- Fuente y convenciones: [traduccion-es](https://github.com/Si-Gon/pokemonHnS/tree/traduccion-es)
